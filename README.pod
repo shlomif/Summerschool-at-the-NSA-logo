@@ -1,0 +1,7 @@
+=encoding utf8
+
+=head1 Summerschool at the NSA Logo
+
+See L<http://www.shlomifish.org/humour/Summerschool-at-the-NSA/> .
+
+=cut
